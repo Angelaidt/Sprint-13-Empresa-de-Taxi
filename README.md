@@ -17,4 +17,4 @@ Veja os dados utilizados :
 ![Dados Sprint 13 - arquivo  CSV](taxi.csv)
 
 # Tecnologias
-PythonBibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn Conceitos: Regressão Linear, Gradient Boosting (como LightGBM, CatBoost e XGBoost). Métricas de Erro (RMSE)
+PythonBibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib, Statsmodels. Conceitos: Regressão Linear, Gradient Boosting (como LightGBM, CatBoost e XGBoost). Métricas de Erro (RMSE)
