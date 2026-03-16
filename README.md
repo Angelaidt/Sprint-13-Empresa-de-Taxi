@@ -14,7 +14,7 @@ A métrica REQM no conjunto de teste não deve ser superior a 48.
 # Estrutura do Repositório
 Veja os dados utilizados : 
 
-![Dados Sprint 13 - arquivo  CSV]()
+![Dados Sprint 13 - arquivo  CSV](taxi.csv)
 
 # Tecnologias
 PythonBibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn Conceitos: Regressão Linear, Gradient Boosting (como LightGBM, CatBoost e XGBoost). Métricas de Erro (RMSE)
