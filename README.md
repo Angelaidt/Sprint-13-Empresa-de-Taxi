@@ -1,7 +1,7 @@
 # Sprint 13 - Projeto 13/17 BootCamp TripleTen de Ciências de Dados
 
 <div align="center">
-  <img src="https://github.com/Angelaidt/Sprint-13-Empresa-de-Taxi/blob/main/imagem_sprint_13.png" width="40%">
+  <img src="https://github.com/Angelaidt/Sprint-13-Empresa-de-Taxi/blob/main/imagem_sprint_13.png" width="60%">
 </div>
 
 # Introdução
