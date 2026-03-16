@@ -1,5 +1,8 @@
 # Sprint 13 - Projeto 13/17 BootCamp TripleTen de Ciências de Dados
-<img src="https://github.com/Angelaidt/Sprint-13-Empresa-de-Taxi/blob/main/imagem_sprint_13.png" width="40%">
+
+<div align="center">
+  <img src="https://github.com/Angelaidt/Sprint-13-Empresa-de-Taxi/blob/main/imagem_sprint_13.png" width="40%">
+</div>
 
 # Introdução
 🚕 Predição de Demanda: Táxi Corrida Maluca Este projeto tem como objetivo otimizar a disponibilidade de motoristas da empresa Taxi Corrida Maluca em aeroportos, através da predição de demanda de passageiros para a hora subsequente.
